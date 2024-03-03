@@ -1,0 +1,9 @@
+Package: libconfig
+Version: 1.7.3
+Port-Version: 5
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 532301d2d6ccdb3aac1e1f823b15171d65b16d9764e5d1e845e16abaa18b4745
+Description: C/C++ library for processing configuration files
+Status: install ok installed
